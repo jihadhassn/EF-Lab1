@@ -1,0 +1,11 @@
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\ITI.Smart.UI.EF.Repository.dll.config
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\ITI.Smart.UI.EF.Repository.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\ITI.Smart.UI.EF.Repository.pdb
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\EntityFramework.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\EntityFramework.xml
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\obj\Debug\ITI.Smart.UI.EF.Repository.csprojResolveAssemblyReference.cache
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\obj\Debug\ITI.Smart.UI.EF.Repository.csproj.CoreCompileInputs.cache
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\obj\Debug\ITI.Smart.UI.EF.Repository.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.Repository\obj\Debug\ITI.Smart.UI.EF.Repository.pdb

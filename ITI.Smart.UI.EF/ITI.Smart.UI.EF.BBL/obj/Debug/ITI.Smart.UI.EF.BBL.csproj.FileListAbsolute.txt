@@ -1,0 +1,17 @@
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.BBL.dll.config
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.BBL.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.BBL.pdb
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\EntityFramework.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.Models.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.Repository.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.Models.pdb
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.Models.dll.config
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.Repository.pdb
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\ITI.Smart.UI.EF.Repository.dll.config
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\EntityFramework.xml
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\obj\Debug\ITI.Smart.UI.EF.BBL.csprojResolveAssemblyReference.cache
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\obj\Debug\ITI.Smart.UI.EF.BBL.csproj.CoreCompileInputs.cache
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\obj\Debug\ITI.Smart.UI.EF.BBL.dll
+D:\ITI\Entity Framework\labs\lab1\ITI.Smart.UI.EF\ITI.Smart.UI.EF.BBL\obj\Debug\ITI.Smart.UI.EF.BBL.pdb
